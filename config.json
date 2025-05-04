@@ -1,0 +1,6 @@
+{
+    "model_path": ".\\resources\\models\\tiny.gguf",
+    "sound_path": ".\\resources\\sounds\\white-noise.mp3",
+    "wpm_values": [150, 200, 250, 300, 350, 400],
+    "languages": ["English", "Spanish", "Portuguese", "French", "German", "Italian"]
+}
