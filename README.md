@@ -1,5 +1,5 @@
 # Speed Reader App
-![ss](https://raw.githubusercontent.com/flashmood69/speed-reader/docs/speed-reader.png)
+![ss](https://github.com/flashmood69/speed-reader/blob/main/docs/speed-reader.png)
 
 ## Description
 This application helps users practice speed reading. It can load text from files or generate text using an AI model based on user prompts. It features a timer, WPM calculation, and text highlighting capabilities.
